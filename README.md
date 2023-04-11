@@ -10,5 +10,5 @@ Beautiful UI Design, Simple design, using HTML, CSS, and JavaScript.
 
 ![contacts](https://user-images.githubusercontent.com/97239651/231139080-572c7f9f-85d9-46e0-abfd-f9886ce9fa3c.PNG)
 
-All Copyrights 2022 by White Hat Designers.
+All Copyrights 2022 by White Hat Designers (I"M Hecker).
 
