@@ -112,13 +112,14 @@ section .title::after {
 	position: fixed;
 	width: 100%;
 	z-index: 999;
-	padding: 20px 40px;
+	padding: 20px 0;
+	border-bottom: 1px solid #66666652;
 	font-family: 'Ubuntu', sans-serif;
 	transition: all 0.3s ease;
 }
 
 .navbar.sticky {
-	padding: 5px 20px;
+	padding: 5px 0;
 	background: var(--crimson);
 	box-shadow: 0 5px 10px var(--light-shadow);
 }
